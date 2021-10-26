@@ -11,7 +11,7 @@ dolarDun="Ankara"
     let dolarDun=9.10
 }
 
-
+sdfs
 console.log(dolarDun)
 
 const euroDun =11.2
